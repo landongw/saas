@@ -35,7 +35,7 @@
     "express-session": "^1.15.6",
     "front-matter": "^3.0.0",
     "googleapis": "^34.0.0",
-    "handlebars": "^4.0.12",
+    "handlebars": "^4.7.7",
     "he": "^1.2.0",
     "helmet": "^3.14.0",
     "highlight.js": "^9.12.0",
